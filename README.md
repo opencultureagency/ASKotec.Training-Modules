@@ -1,8 +1,8 @@
 # #ASKotec Training-Modules
 
-![Training-Modules Header](images/training-modules-header.jpg)
+![Training-Modules Header](https://github.com/opencultureagency/ASKotec.Training-Modules/blob/master/images/training-modules-header.jpg)
 
-<a href="https://askotec.openculture.agency/category/training-modules/" style="background:#232323; display:block-inline; padding:5px; border-radius:3px;"><img src="images/wordpress-brands.png" width="20" /> View all blog postes</a>
+<a href="https://askotec.openculture.agency/category/training-modules/" style="background:#232323; display:block-inline; padding:5px; border-radius:3px;"><img src="https://github.com/opencultureagency/ASKotec.Training-Modules/blob/master/images/wordpress-brands.png" width="20" /> View all blog postes</a>
 
 ## List of all Training-Modules
 
